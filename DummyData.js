@@ -728,7 +728,7 @@ const Home = [
   {
     id: 22,
     category: "Fitness",
-    title: "Cardiovascular Health and Exercise",
+    name: "Cardiovascular Health and Exercise",
     image:
       "https://www.frontiersin.org/files/Articles/458447/fcvm-06-00069-HTML/image_m/fcvm-06-00069-g001.jpg",
     text: "Explore the importance of cardiovascular health and the role of exercise in maintaining a healthy heart. Learn about various cardio workouts and lifestyle choices for better heart health.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
@@ -736,14 +736,14 @@ const Home = [
   {
     id: 23,
     category: "Fitness",
-    title: "Nutrition Essentials for Athletes",
+    name: "Nutrition Essentials for Athletes",
     image: "https://blog.nasm.org/hubfs/sports-nutrition-guide.jpg",
     text: "Discover the essential nutritional requirements for athletes and active individuals. Find out how to fuel your body for peak performance, recovery, and overall well-being.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
   },
   {
     id: 24,
     category: "Fitness",
-    title: "Yoga and Mindfulness for Stress Reduction",
+    name: "Yoga and Mindfulness for Stress Reduction",
     image:
       "https://www.ekhartyoga.com/media/image/articles/6-stress-relieving-pose.jpg",
     text: "Learn about the benefits of incorporating yoga and mindfulness practices into your daily routine. Explore techniques for reducing stress, improving mental clarity, and enhancing relaxation.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
@@ -751,7 +751,7 @@ const Home = [
   {
     id: 25,
     category: "Fitness",
-    title: "High-Intensity Interval Training (HIIT)",
+    name: "High-Intensity Interval Training (HIIT)",
     image:
       "https://images.ctfassets.net/psi7gc0m4mjv/1b1d9f0c-67b7-45b7-bb72-31efc4da28d5/0ac6571699c4591043efd109fbf21052/issa-blog-header-hiit.jpg",
     text: "Youll work harder than you do when you do a typical cardio workout. But youll do it in spurts of 30 seconds to 3 minutes. Then you’ll have a chance to recover for about the same amount of time or longer.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
@@ -759,7 +759,7 @@ const Home = [
   {
     id: 26,
     category: "Fitness",
-    title: "Nutrition Myths Debunked",
+    name: "Nutrition Myths Debunked",
     image:
       "https://www.nocofitness.com/wp-content/uploads/2018/11/Nutrition-Myths-Debunked.jpg",
     text: "Separate fact from fiction as we debunk common nutrition myths. Learn about proper dietary choices and get evidence-based insights into maintaining a healthy diet.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
@@ -767,7 +767,7 @@ const Home = [
   {
     id: 27,
     category: "Fitness",
-    title: "Strength Training for Beginners",
+    name: "Strength Training for Beginners",
     image:
       "https://www.muscleandfitness.com/wp-content/uploads/2019/03/Kettleball.jpg?quality=86&strip=all",
     text: "If you're new to strength training, this article is for you. Discover the basics of weightlifting, resistance training, and building muscle safely and effectively.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
@@ -775,14 +775,14 @@ const Home = [
   {
     id: 28,
     category: "Fitness",
-    title: "Running Tips for Beginners",
+    name: "Running Tips for Beginners",
     image: "https://i.ndtvimg.com/i/2017-12/running_696x400_71514191052.jpg",
     text: "Are you considering taking up running? Learn valuable tips and advice for beginner runners, including proper footwear, pacing, and injury prevention.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
   },
   {
     id: 29,
     category: "Fitness",
-    title: "Healthy Habits for a Balanced Lifestyle",
+    name: "Healthy Habits for a Balanced Lifestyle",
     image:
       "https://media.defense.gov/2020/Apr/30/2002291608/1920/1080/0/200501-F-PO640-0034.JPG",
     text: "Explore healthy habits that contribute to a balanced lifestyle. From sleep routines to stress management, discover practices that promote overall well-being.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
@@ -790,7 +790,7 @@ const Home = [
   {
     id: 30,
     category: "Fitness",
-    title: "Mind-Body Connection in Fitness",
+    name: "Mind-Body Connection in Fitness",
     image:
       "https://www.hhhealth.com/wp-content/uploads/2022/07/AdobeStock_295859885-1024x480.jpeg",
     text: "Understand the mind-body connection in fitness and how mental well-being influences physical performance. Learn techniques for enhancing focus and motivation during workouts.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
