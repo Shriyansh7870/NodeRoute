@@ -1,6 +1,8 @@
 const express = require("express");
 const catergoryRouter = require("./Routing/CategoryRouting");
 const cors = require("cors");
+const { bollywood } = require("./Controller/ControllerRouting");
+const { Bollywood } = require("./DummyData");
 const app = express();
 
 const middleware1 = (req, res, next) => {
@@ -12,6 +14,13 @@ app.use(cors());
 app.get("/Api", (req, res) => {
   console.log("home page");
   res.send("Api is running fine");
+});
+
+app.get("/Api/:id", (req, res) => {
+  const id = req.params.id;
+  console.log(id);
+  const data = Bollywood.find((item) => item.id == id);
+  console.log(data);
 });
 app.use("/Api", catergoryRouter);
 app.listen(5000, () => {

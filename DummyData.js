@@ -559,4 +559,312 @@ const Food = [
     text: "Tender and juicy filet mignon steak cooked to perfection, served with garlic mashed potatoes.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.",
   },
 ];
-module.exports = { Bollywood, Technology, Food, Fitness, Hollywood };
+
+const Home = [
+  {
+    id: 1,
+    category: "Bollywood",
+    name: "GADAR2",
+    image: "https://i.ytimg.com/vi/7kcjLAqdTy4/maxresdefault.jpg",
+    text: "When Tara Singh goes missing during a skirmish and is believed to be captured in Pakistan, his son Jeete sets out to rescue him and enters a labyrinth from which they both must escape at all costs. In an interview with India.com, Gadar 2 director Anil Sharma talked about his film possibly overtaking Shah Rukh Khan’s Pathaan. Sharma had said, 'I don’t believe in numbers. Pathaan has done exceptionally well, even KGF (Chapter 2) did extremely well, and now, Gadar 2 is performing as well. Now, let’s see how far it goes, how far the public takes it. It is the public’s film. We have already crossed Rs 400 crore; it will reach the Rs 500 crore mark in the coming week and maybe the Rs 1,000 crore mark at some point. So, we are not looking at numbers alone; we are trying to make a place in people’s hearts. People are watching it and loving it; that’s enough for us. Whatever (box office) numbers have come out today are real; there is nothing fake.'",
+  },
+  {
+    id: 2,
+    category: "Bollywood",
+    name: "Pathan",
+    image: "https://i.ytimg.com/vi/7kcjLAqdTy4/maxresdefault.jpg",
+    https:
+      "images.hindustantimes.com/tech/img/2023/02/20/960x540/pathan_1674453019570_1676878377206_1676878377206.jpg",
+    text: "If you are going to see Jawan in Jawan, then first you will see King Khan playing the character of an old man who hijacked the Metro, who is acting like a real hero by giving villainous dialogues. Along with her Girl’s brigade, whose dress and sequence will definitely remind you of Money Heist. But our romantic hero here doesn’t just mind like a professor. It kills, too, and yes, it kills a lot. Joker laughs like a gimmick and then gets a little emotional.The story of a son of India who puts country before self, Pathaan is a crowd pleaser that marks the return of Shah Rukh Khan to the action genre with new toys and a lot more bombast. Returning after a hiatus, SRK is in form in the larger-than-life space of Yash Raj banner’s growing spy universe where writers pick strands from the real world and propel them at escape velocity.Siddharth focuses too much on choreographing action, often leaving emotions hanging by a thread, but it is the individual charm of the performers that makes up for the lack of strong emotional core. No wonder, early in the film, a scientist says, science is easy; love is hard.",
+  },
+  {
+    id: 3,
+    category: "Bollywood",
+    name: "Border",
+    image:
+      "https://i.etsystatic.com/20387760/r/il/f37074/3272972500/il_fullxfull.3272972500_823s.jpg",
+    text: 'Border is a Bollywood war film that is set against the backdrop of the India-Pakistan war of 1971. The movie is based on real events and focuses on the Battle of Longewala, a significant military engagement during the war. The story primarily revolves around the brave soldiers of the Indian Army who were stationed at the Longewala post in the Thar Desert <br>The film introduces us to a group of soldiers from different backgrounds, including Major Kuldip Singh Chandpuri (played by Sunny Deol), who is in charge of the Longewala post, and Captain Bhairon Singh (played by Suniel Shetty). As the war escalates, the Indian soldiers find themselves vastly outnumbered and ill-equipped to defend the post against the advancing Pakistani forces.The film received critical acclaim for its unique and thought-provoking storyline, as well as its exceptional makeup and practical effects that transform the lead character into a fantastical creature. "Border" delves into themes of identity, belonging, and acceptance and is known for its thought-provoking and unconventional narrative. It has been praised for its powerful performances and its ability to blend elements of fantasy and social commentary.',
+  },
+  {
+    id: 4,
+    category: "Bollywood",
+    name: "Lagan",
+    image:
+      "https://assets.telegraphindia.com/telegraph/2021/Jun/1623695129_lagaan.jpg",
+    text: 'Lagaan" is a period drama that unfolds in the rural village of Champaner, located in the British-controlled part of India during 1893. The villagers are burdened by high taxes (lagaan) imposed by the British colonial rulers. Captain Andrew Russell (played by Paul Blackthorne) is the ruthless British officer in charge of the region, and he demands a double lagaan from the already impoverished villagers due to a prolonged drought<br>The villagers, led by Bhuvan (played by Aamir Khan), an earnest and spirited young man, are unable to pay the oppressive taxes. They protest against the British, and as a result, Captain Russell challenges them to a cricket match. He proposes that if the villagers win the match, their lagaan will be waived for three years, but if they lose, theyll have to pay triple lagaan."Lagaan" is not just a sports film but also a social and historical drama that explores themes of unity, colonialism, and the power of determination. It received widespread critical acclaim and was even nominated for the Academy Award for Best Foreign Language Film in 2002. The film is celebrated for its storytelling, performances, music, and its ability to blend sports with a powerful narrative that resonates with audiences worldwide.',
+  },
+  {
+    id: 5,
+    category: "Bollywood",
+    name: "Badhaai Ho",
+    image:
+      "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7302/177302-h",
+    text: '"Badhaai Ho" tells the story of the Kaushik family, a middle-class family living in Delhi. The films protagonist Nakul Kaushik (played by Ayushmann Khurrana), is a young man who works in an IT job and lives a relatively ordinary life. Nakul is in a loving relationship with his girlfriend, Renee (played by Sanya Malhotra), and everything seems to be going smoothly<br> However Nakuls world is turned upside down when he discovers that his mother Priyamvada played by Neena Gupta is pregnant. The news comes as a shock to Nakul and his younger brother Gullar (played by Shardul Rana) because their parents are older and they had never expected them to have another child."Badhaai Ho" is a popular Bollywood comedy-drama film released in 2018. The movie was directed by Amit Sharma and produced by Vineet Jain, Aleya Sen, Hemant Bhandari, and Amit Ravindernath Sharma. The film features an ensemble cast that includes Ayushmann Khurrana, Neena Gupta, Gajraj Rao, Surekha Sikri, and Sanya Malhotra in key roles.The story of "Badhaai Ho" revolves around a middle-class family living in Delhi. The film central premise is that the middle-aged mother of the family, played by Neena Gupta, unexpectedly becomes pregnant. This unexpected news sends shockwaves through the family and society, leading to various comical and heartwarming situations.',
+  },
+  {
+    id: 6,
+    category: "Bollywood",
+    name: "October",
+    image:
+      "https://static-koimoi.akamaized.net/wp-content/new-galleries/2018/04/october-movie-review-1.jpg",
+    text: '"October" is a unique and contemplative love story that centers around the lives of Dan (played by Varun Dhawan) and Shiuli (played by Banita Sandhu), who work together at a hotel in Delhi. While they are colleagues, they arent particularly close<br> The story takes a dramatic turn when Shiuli falls from the third floor of the hotel and is severely injured, leading her into a comatose state. This unexpected incident deeply affects Dan, who is deeply moved by her condition. He begins to visit her regularly at the hospital, even though they were not romantically involved or close friends."October" is a unique and unconventional love story that revolves around the lives of two hotel management interns, Dan (played by Varun Dhawan) and Shiuli (played by Banita Sandhu). The story takes a dramatic turn when Shiuli meets with a tragic accident and slips into a coma. Dan, deeply affected by Shiulis condition, starts spending time at the hospital, taking care of her and searching for ways to wake her up. His actions are driven by a deep, unexplained connection and affection for Shiuli.',
+  },
+  {
+    id: 7,
+    category: "Bollywood",
+    name: "IB71",
+    image:
+      "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/3372/1543372-h-dbb5b6027e3d",
+    text: "A finely directed spy thriller with remarkable finesse and restraint, IB71 is a film based on a phenomenal real-life mission executed by our secret services, and after watching this film, it fills you with pride. By not revealing all the cards at once and dumbing down everything by dumping information in the form of narration, the film retains a sense of urgency and suspense. It falters in writing especially in the detailing as a lot of things happen too easily and conveniently in the mission, but despite those hiccups, its tense narrative and brisk pace make the sail smooth. The BGM is nice and Vidyut shows his dramatic chops in this film and passes neatly. IB71 is not a great film but it executes its subject matter skillfully and will leave you with a good 2 hours worth of your time.. It falters in writing especially in the detailing as a lot of things happen too easily and conveniently in the mission, but despite those hiccups, its tense narrative and brisk pace make the sail smooth. The BGM is nice and Vidyut shows his dramatic chops in this film and passes neatly. IB71 is not a great film but it executes its subject matter skillfully and will leave you with a good 2 hours worth of your time.“IB 71” unfolds with the intensity of a Hollywood thriller, wasting no time in getting to the crux of the matter and maintaining focus on the core plot throughout its duration. It is commendable that the makers opted to forego song placements for the majority of the film, thus ensuring its momentum (although there is one song towards the end). Any musical number would have undoubtedly hindered the films pace. The daring exploits depicted in the film exude authenticity rather than a clichéd cinematic portrayal. The art direction and cinematography of this film deserve special mention, as they create a magnificent backdrop that transports viewers back to India in 1971. The sequences set in Dal Lake are breath-taking, with aerial shots capturing its beauty like never before.",
+  },
+  {
+    id: 8,
+    category: "Bollywood",
+    name: "Padmaavat",
+    image:
+      "https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/padmaavat-2018/Padmaavat-2018-1.jpg",
+    text: "Padmaavat is a historical drama set in the 13th century during the reign of the Rajput king Ratan Singh of Mewar (played by Shahid Kapoor). The story revolves around the legendary queen Padmavati (played by Deepika Padukone), known for her exceptional beauty and wisdom. The plot is set in motion when the ambitious and power-hungry Alauddin Khilji (played by Ranveer Singh), the Sultan of Delhi, learns about Padmavati's extraordinary beauty. Driven by lust and a desire to possess her, Khilji wages war against Mewar and captures Ratan Singh.Film Padmavati is based on the epic Padmavat, composed by medieval age Sufi poet Malik Muhammad Jayasi from the days of the Bhakti Movement, which produced Tulsidas, Surdas and Kabir among hundreds of others.Padmavat tells a story, which historians don't value much, treating it as a work of fiction of the queen of Chittor named Padmavati, who was coveted by Delhi's sultan Alauddin Khilji , known for his military conquests across India and strong market regulations in the capital to keep the prices of articles in control",
+  },
+  {
+    id: 9,
+    category: "Bollywood",
+    name: "Gully Boy",
+    image: "https://i.ytimg.com/vi/JfbxcD6biOk/maxresdefault.jpg",
+    text: '"Gully Boy" is a coming-of-age drama that follows the life of Murad Ahmed (played by Ranveer Singh), a young man from a lower-income family in the slums of Mumbai. Murad has a passion for writing and poetry, and he uses this creative outlet to cope with the challenges he faces in his life<br>Living in a small, crowded home with his mother, grandmother, and abusive father, Murad dreams seem limited However, his life takes a turn when he discovers the world of underground rap music in Mumbai, which is thriving with talent and raw energy Gully Boy opens to Murad, a final year college student. He lives with his parents, grandmother, and younger brother in a small house, in Dharavi. His father, Aftab Sheikh (Vijay Raaz), a driver, frequently discourages and rebukes him; he’s also brought home a second wife. But not all is bleak for Murad: He has Safeena (Bhatt), his girlfriend from high school, and hip-hop, a music genre with foreign roots, that acquires momentous meanings: distraction, escape, home.',
+  },
+
+  {
+    id: 10,
+    category: "Bollywood",
+    name: "Dil Chahta Hai",
+    image: "https://i.ytimg.com/vi/9coA7bcpJII/maxresdefault.jpg",
+    text: ' "Dil Chahta Hai" is a coming-of-age comedy-drama film that revolves around the lives of three close friends, Aakash (played by Aamir Khan), Sameer (played by Saif Ali Khan), and Siddharth (played by Akshaye Khanna). The film explores their journeys through love, friendship, and personal growth. Set in Mumbai and Goa, "Dil Chahta Hai" delves into the complexities of modern relationships and the inseparable bond of true friendship.When Dil Chahta Hai was released, Bollywood was only beginning to change, and viewers were looking for stories that were more accessible and realistic. The movie deviated from typical storylines and offered a novel viewpoint that appealed to urban adolescents in the early 2000s. It avoided the conventional themes that had previously dominated the business and instead dug into the lives of three friends and their experiences.',
+  },
+  {
+    id: 11,
+    category: "Hollywood",
+    name: "Inception",
+    image:
+      "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/26677df38123a3a1553d704477c100af81b641e1d539bc1991f99f89935f18b0._UY500_UX667_RI_TTW_.jpg",
+    text: "Inception is a science fiction thriller that explores the concept of entering and manipulating dreams within dreams, leading to a complex heist scenario within the dream world.The story can either be told in a few sentences, or not told at all. Here is a movie immune to spoilers: If you knew how it ended, that would tell you nothing unless you knew how it got there. And telling you how it got there would produce bafflement. The movie is all about process, about fighting our way through enveloping sheets of reality and dream, reality within dreams, dreams without reality. It's a breathtaking juggling act, and Nolan may have considered his Memento (2000) a warm-up; he apparently started this screenplay while filming that one. It was the story of a man with short-term memory loss, and the story was told backwards.",
+  },
+  {
+    id: 12,
+    category: "Hollywood",
+    name: "The Shawshank Redemption",
+    image:
+      "https://wallpapercosmos.com/w/full/e/a/b/171926-2880x1800-desktop-hd-the-shawshank-redemption-wallpaper-photo.jpg",
+    text: "The Shawshank Redemption\" is a drama that follows the life of a wrongly convicted inmate, Andy Dufresne, as he navigates the challenges of prison life and seeks his freedom.Like the hero of that film, the viewer of  is adrift in time and experience. We can never even be quite sure what the relationship between dream time and real time is. The hero explains that you can never remember the beginning of a dream, and that dreams that seem to cover hours may only last a short time. Yes, but you don't know that when you're dreaming. And what if you're inside another man's dream? How does your dream time synch with his? What do you really know?",
+  },
+  {
+    id: 13,
+    category: "Hollywood",
+    name: "Pulp Fiction",
+    image:
+      "https://m.media-amazon.com/images/M/MV5BNTY1MzgzOTYxNV5BMl5BanBnXkFtZTgwMDI4OTEwMjE@._V1_.jpg",
+    text: "Pulp Fiction is a nonlinear crime film that weaves together multiple interconnected stories involving hitmen, crime, and unusual occurrences in Los Angeles.The story can either be told in a few sentences, or not told at all. Here is a movie immune to spoilers: If you knew how it ended, that would tell you nothing unless you knew how it got there. And telling you how it got there would produce bafflement. The movie is all about process, about fighting our way through enveloping sheets of reality and dream, reality within dreams, dreams without reality. It's a breathtaking juggling act, and Nolan may have considered his Memento (2000) a warm-up; he apparently started this screenplay while filming that one. It was the story of a man with short-term memory loss, and the story was told backwards.",
+  },
+  {
+    id: 14,
+    category: "Hollywood",
+    name: "The Godfather2",
+    image: "https://images3.alphacoders.com/131/1315823.jpg",
+    text: "The Godfather is a mafia crime epic that follows the Corleone family's patriarch, Vito Corleone, and his sons as they navigate the world of organized crime and power struggles.Like the hero of that film, the viewer  is adrift in time and experience. We can never even be quite sure what the relationship between dream time and real time is. The hero explains that you can never remember the beginning of a dream, and that dreams that seem to cover hours may only last a short time. Yes, but you don't know that when you're dreaming. And what if you're inside another man's dream? How does your dream time synch with his? What do you really know?",
+  },
+  {
+    id: 15,
+    category: "Hollywood",
+    name: "Avatar2",
+    image:
+      "https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2022/11/Huge-Demand-for-Avatar2-in-Telugu-States-Web.jpg",
+    text: "Avatar is a science fiction film set on the alien planet of Pandora, where humans clash with the indigenous Na'vi people in a story of colonization and environmentalism.The film's midsection shifts its focus away from Sully/Quaritch to the region's children as Jake's boys learn the ways of the water clan. Finally, the world of Avatar feels like it's expanding in ways the first film didn't. Whereas that film was more focused on a single story, Cameron ties together multiple ones here in a far more ambitious and ultimately rewarding fashion. While some of the ideas and plot developments—like the connection of Kiri to Pandora or the arc of a new character named Spider",
+  },
+  {
+    id: 16,
+    category: "Hollywood",
+    name: "Jurassic Park",
+    image: "https://ychef.files.bbci.co.uk/976x549/p06vgbzj.jpg",
+    text: "Jurassic Park is a science fiction adventure film where a group of scientists and visitors must survive a deadly encounter with cloned dinosaurs on an isolated island.The film's midsection shifts its focus away from Sully/Quaritch to the region's children as Jake's boys learn the ways of the water clan. Finally, the world of  feels like it's expanding in ways the first film didn't. Whereas that film was more focused on a single story, Cameron ties together multiple ones here in a far more ambitious and ultimately rewarding fashion. While some of the ideas and plot developments—like the connection of Kiri to Pandora or the arc of a new character named Spider",
+  },
+  {
+    id: 17,
+    category: "Hollywood",
+    name: "The Matrix",
+    image:
+      "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/05/the-matrix-code-keanu-reeves.jpeg",
+    text: "The Matrix is a cyberpunk science fiction film that explores the concept of a simulated reality and a group of rebels' fight against machines controlling humanity.For all the fan pages, the long and winding Wikis, the nods to Plato's Allegory of the Cave and to French critical theory, the hours upon hours of dauntingly labeled “philosophers’ commentaries” that adorn the Blu-rays, the original movie itself is, in some ways, as plain as the green cursor blinking on a black screen that, quaintly, begins it. In memory, the premise of Lilly and Lana Wachowski’s breakthrough film was an elaborate, wordy, barely comprehensible piece of world-building. But in truth, The Matrix gets most of the explanatory stuff out of the way in a few efficient strokes in its frontloaded first third so that",
+  },
+  {
+    id: 18,
+    category: "Hollywood",
+    name: "Forrest Gump",
+    image:
+      "https://www.koimoi.com/wp-content/new-galleries/2022/08/did-you-know-tom-hanks-had-to-fund-a-certain-portion-of-the-forrest-gump-01.jpg",
+    text: "Forrest Gump is a heartwarming drama that follows the extraordinary life of Forrest Gump, a man with a low IQ, as he unintentionally influences many historical events.For all the fan pages, the long and winding Wikis, the nods to Plato’s Allegory of the Cave and to French critical theory, the hours upon hours of dauntingly labeled “philosophers’ commentaries” that adorn the Blu-rays, the original movie itself is, in some ways, as plain as the green cursor blinking on a black screen that, quaintly, begins it. In memory, the premise of Lilly and Lana Wachowski’s breakthrough film was an elaborate, wordy, barely comprehensible piece of world-building. But in truth, The Matrix gets most of the explanatory stuff out of the way in a few efficient strokes in its frontloaded first third so that",
+  },
+  {
+    id: 19,
+    category: "Hollywood",
+    name: "Avatar",
+    image:
+      "https://m.economictimes.com/thumb/msid-96284064,width-5000,height-2637,resizemode-4,imgsize-288582/avatar-the-way-of-water-see-who-is-kiri-her-parents.jpg",
+    text: "Avatar is a science fiction film set on the alien planet of Pandora, where humans clash with the indigenous Na'vi people in a story of colonization and environmentalism.For all the fan pages, the long and winding Wikis, the nods to Plato’s Allegory of the Cave and to French critical theory, the hours upon hours of dauntingly labeled “philosophers’ commentaries” that adorn the Blu-rays, the original movie itself is, in some ways, as plain as the green cursor blinking on a black screen that, quaintly, begins it. In memory, the premise of Lilly and Lana Wachowski’s breakthrough film was an elaborate, wordy, barely comprehensible piece of world-building. But in truth, The Matrix gets most of the explanatory stuff out of the way in a few efficient strokes in its frontloaded first third so that",
+  },
+  {
+    id: 20,
+    category: "Hollywood",
+    name: "The Godfather",
+    image: "https://images5.alphacoders.com/131/thumb-1920-1315822.jpg",
+    text: "The Godfather is a mafia crime epic that follows the Corleone family's patriarch, Vito Corleone, and his sons as they navigate the world of organized crime and power struggles.They took the figure of the ageing don as seriously as Lear, the careworn ruler of a secret American state-within-a-state. Stomach-turning flourishes of violence are juxtaposed with elaborate rituals of familial piety and respect, which generations of real-life criminals in the United States treated as how-to behaviour manuals for decades afterwards. These Italian-American gangsters do not complain about the bigotry heading their way, and are themselves casually racist and antisemitic. Extravagant gestures of romantic adoration and solemn respect for womenfolk are combined with casual sexual abuse; and women have to reconcile themselves to their role",
+  },
+  {
+    id: 21,
+    category: "Hollywood",
+    name: "Pulp Fiction",
+    image:
+      "https://hbomax-images.warnermediacdn.com/images/GX-EBkAX3JSfCSwEAAAAC/tile?size=1280x720&format=jpeg&partner=hbocom&v=f58b2504fa6ddc4a246489247d35f43c&host=art-gallery.api.hbo.com&w=1200",
+    text: '"Pulp Fiction" is a nonlinear crime film that weaves together multiple interconnected stories involving hitmen, crime, and unusual occurrences in Los Angeles.They took the figure of the ageing don as seriously as Lear, the careworn ruler of a secret American state-within-a-state. Stomach-turning flourishes of violence are juxtaposed with elaborate rituals of familial piety and respect, which generations of real-life criminals in the United States treated as how-to behaviour manuals for decades afterwards. These Italian-American gangsters do not complain about the bigotry heading their way, and are themselves casually racist and antisemitic. Extravagant gestures of romantic adoration and solemn respect for womenfolk are combined with casual sexual abuse; and women have to reconcile themselves to their role',
+  },
+  {
+    id: 22,
+    category: "Fitness",
+    title: "Cardiovascular Health and Exercise",
+    image:
+      "https://www.frontiersin.org/files/Articles/458447/fcvm-06-00069-HTML/image_m/fcvm-06-00069-g001.jpg",
+    text: "Explore the importance of cardiovascular health and the role of exercise in maintaining a healthy heart. Learn about various cardio workouts and lifestyle choices for better heart health.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
+  },
+  {
+    id: 23,
+    category: "Fitness",
+    title: "Nutrition Essentials for Athletes",
+    image: "https://blog.nasm.org/hubfs/sports-nutrition-guide.jpg",
+    text: "Discover the essential nutritional requirements for athletes and active individuals. Find out how to fuel your body for peak performance, recovery, and overall well-being.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
+  },
+  {
+    id: 24,
+    category: "Fitness",
+    title: "Yoga and Mindfulness for Stress Reduction",
+    image:
+      "https://www.ekhartyoga.com/media/image/articles/6-stress-relieving-pose.jpg",
+    text: "Learn about the benefits of incorporating yoga and mindfulness practices into your daily routine. Explore techniques for reducing stress, improving mental clarity, and enhancing relaxation.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
+  },
+  {
+    id: 25,
+    category: "Fitness",
+    title: "High-Intensity Interval Training (HIIT)",
+    image:
+      "https://images.ctfassets.net/psi7gc0m4mjv/1b1d9f0c-67b7-45b7-bb72-31efc4da28d5/0ac6571699c4591043efd109fbf21052/issa-blog-header-hiit.jpg",
+    text: "Youll work harder than you do when you do a typical cardio workout. But youll do it in spurts of 30 seconds to 3 minutes. Then you’ll have a chance to recover for about the same amount of time or longer.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
+  },
+  {
+    id: 26,
+    category: "Fitness",
+    title: "Nutrition Myths Debunked",
+    image:
+      "https://www.nocofitness.com/wp-content/uploads/2018/11/Nutrition-Myths-Debunked.jpg",
+    text: "Separate fact from fiction as we debunk common nutrition myths. Learn about proper dietary choices and get evidence-based insights into maintaining a healthy diet.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
+  },
+  {
+    id: 27,
+    category: "Fitness",
+    title: "Strength Training for Beginners",
+    image:
+      "https://www.muscleandfitness.com/wp-content/uploads/2019/03/Kettleball.jpg?quality=86&strip=all",
+    text: "If you're new to strength training, this article is for you. Discover the basics of weightlifting, resistance training, and building muscle safely and effectively.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
+  },
+  {
+    id: 28,
+    category: "Fitness",
+    title: "Running Tips for Beginners",
+    image: "https://i.ndtvimg.com/i/2017-12/running_696x400_71514191052.jpg",
+    text: "Are you considering taking up running? Learn valuable tips and advice for beginner runners, including proper footwear, pacing, and injury prevention.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
+  },
+  {
+    id: 29,
+    category: "Fitness",
+    title: "Healthy Habits for a Balanced Lifestyle",
+    image:
+      "https://media.defense.gov/2020/Apr/30/2002291608/1920/1080/0/200501-F-PO640-0034.JPG",
+    text: "Explore healthy habits that contribute to a balanced lifestyle. From sleep routines to stress management, discover practices that promote overall well-being.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
+  },
+  {
+    id: 30,
+    category: "Fitness",
+    title: "Mind-Body Connection in Fitness",
+    image:
+      "https://www.hhhealth.com/wp-content/uploads/2022/07/AdobeStock_295859885-1024x480.jpeg",
+    text: "Understand the mind-body connection in fitness and how mental well-being influences physical performance. Learn techniques for enhancing focus and motivation during workouts.Flexibility workouts, such as stretching, don’t directly contribute to heart health. What they do is benefit musculoskeletal health, which enables you to stay flexible and free from joint pain, cramping and other muscular issues. That flexibility is a critical part of being able to maintain aerobic exercise and resistance training, says Stewart.",
+  },
+  {
+    id: 31,
+    category: "Food",
+    name: "Margherita Pizza",
+    image:
+      "https://c4.wallpaperflare.com/wallpaper/517/845/145/pizza-italian-food-vegetarian-food-pizza-margherita-wallpaper-preview.jpg",
+    text: "Delicious Italian pizza topped with fresh mozzarella, tomato sauce, basil, and olive oil.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.",
+  },
+  {
+    id: 32,
+    category: "Food",
+    name: "Chicken Quesadilla",
+    image:
+      "https://img.freepik.com/premium-photo/quesadilla-with-chicken-cheese-chilli-greens_268847-5840.jpg",
+    text: "Savory chicken quesadilla with melted cheese, grilled chicken, and a side of salsa.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.",
+  },
+  {
+    id: 33,
+    category: "Food",
+    name: "Salmon Sushi Roll",
+    image:
+      "https://vaya.in/recipes/wp-content/uploads/2018/09/Smoked-Salmon-Sushi-Roll.jpg",
+    text: "Delicate salmon sushi roll with rice, seaweed, avocado, and wasabi.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.",
+  },
+  {
+    id: 34,
+    category: "Food",
+    name: "Chicken Tikka Masala",
+    image: "https://i.ytimg.com/vi/n7EmpanX7io/maxresdefault.jpg",
+    text: "Spicy and creamy chicken tikka masala served with naan bread and basmati rice.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.",
+  },
+  {
+    id: 35,
+    category: "Food",
+    name: "Sweet and Sour Chicken",
+    image:
+      "https://media.istockphoto.com/id/499424611/photo/sweet-and-sour-chicken-on-rice.jpg?s=612x612&w=0&k=20&c=lUPp59W6tMz2pnTlymaWePqsnD2EVbnTQH5SLrCMcJQ=",
+    text: "Tangy sweet and sour chicken with bell peppers and pineapple chunks.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.",
+  },
+  {
+    id: 36,
+    category: "Food",
+    name: "Vegetable Stir-Fry",
+    image:
+      "https://therecipecritic.com/wp-content/uploads/2019/09/Vegetable-Stir-Fry-Facebook-SEO-800-x-534.png",
+    text: "Healthy vegetable stir-fry with broccoli, carrots, bell peppers, and tofu in a savory sauce.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.",
+  },
+  {
+    id: 37,
+    category: "Food",
+    name: "Chocolate Brownie",
+    image:
+      "https://food-images.files.bbci.co.uk/food/recipes/chocolate_brownies_83180_16x9.jpg",
+    text: "Rich and fudgy chocolate brownie topped with vanilla ice cream and drizzled with hot fudge.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.",
+  },
+  {
+    id: 38,
+    category: "Food",
+    name: "Greek Salad",
+    image:
+      "https://img.freepik.com/free-photo/greek-salad-with-fresh-vegetables-feta-cheese-kalamata-olives_2829-10854.jpg",
+    text: "Fresh Greek salad with cucumbers, tomatoes, olives, feta cheese, and a zesty dressing.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.",
+  },
+  {
+    id: 39,
+    category: "Food",
+    name: "Pad Thai Noodles",
+    image:
+      "https://media.istockphoto.com/id/926663774/photo/pad-thai-vegetarian-vegetables-udon-noodles-in-a-dark-background-top-view-vegetarian-food-in.jpg?s=612x612&w=0&k=20&c=OYjE5_Z9_ZCpG0yNW9aVfVFp7l9n2AquesjHJWyZOq0=",
+    text: "Classic Pad Thai noodles with shrimp, peanuts, bean sprouts, and a tangy sauce.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.Food brings people together and cooking at home is a great way to unite your family over the dining table. Everyone loves a home-cooked meal—even moody teenagers or picky eaters. And if you live alone, that doesn’t mean you have to cook or eat alone. Sharing meals with others is a great way to expand your social network. Getting appreciative feedback on a meal you’ve prepared for someone can bring a real boost to your self-esteem, too.",
+  },
+];
+module.exports = { Bollywood, Technology, Food, Fitness, Hollywood, Home };

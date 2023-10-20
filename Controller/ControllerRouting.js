@@ -4,6 +4,7 @@ const {
   Food,
   Hollywood,
   Fitness,
+  Home,
 } = require("../DummyData");
 const bollywood = (req, res) => {
   res.send(Bollywood);
@@ -20,4 +21,7 @@ const fitness = (req, res) => {
 const hollywood = (req, res) => {
   res.send(Hollywood);
 };
-module.exports = { bollywood, technology, food, hollywood, fitness };
+const home = (req, res) => {
+  res.send(Home);
+};
+module.exports = { bollywood, technology, food, hollywood, fitness, home };
