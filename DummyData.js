@@ -10,7 +10,7 @@ const Bollywood = [
     id: 2,
     category: "Bollywood",
     name: "Pathan",
-    image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mid-day.com%2Fbrand-media%2Farticle%2Fhow-to-watch-pathaan-full-movie-in-hd-online-free-shah-rukh-khan-movie-23267218&psig=AOvVaw02E_vT62kAvs701WmAArpw&ust=1698924318000000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKjRnLXYooIDFQAAAAAdAAAAABAE",
+    image: "https://stat4.bollywoodhungama.in/wp-content/uploads/2020/08/Pathaan-01.jpg",
     https:
       "images.hindustantimes.com/tech/img/2023/02/20/960x540/pathan_1674453019570_1676878377206_1676878377206.jpg",
     text: "If you are going to see Jawan in Jawan, then first you will see King Khan playing the character of an old man who hijacked the Metro, who is acting like a real hero by giving villainous dialogues. Along with her Girl’s brigade, whose dress and sequence will definitely remind you of Money Heist. But our romantic hero here doesn’t just mind like a professor. It kills, too, and yes, it kills a lot. Joker laughs like a gimmick and then gets a little emotional.The story of a son of India who puts country before self, Pathaan is a crowd pleaser that marks the return of Shah Rukh Khan to the action genre with new toys and a lot more bombast. Returning after a hiatus, SRK is in form in the larger-than-life space of Yash Raj banner’s growing spy universe where writers pick strands from the real world and propel them at escape velocity.Siddharth focuses too much on choreographing action, often leaving emotions hanging by a thread, but it is the individual charm of the performers that makes up for the lack of strong emotional core. No wonder, early in the film, a scientist says, science is easy; love is hard.",
